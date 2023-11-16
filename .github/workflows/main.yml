@@ -1,4 +1,4 @@
-name: Codespace
+name: Codespaces
 on: [push]
 jobs:
   build:
